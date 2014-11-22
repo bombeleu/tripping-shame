@@ -1,8 +1,15 @@
-Library/
-Temp/
-*.csproj
 *.sln
 *.userprefs
+*.csproj
+*.pidb
+*.unityproj
+.DS_store
+/Library/FailedAssetImports.txt
+/Library/cache/
+/Library/previews/
+/Library/ScriptAssemblies
+/obj
+/Temp
 
 #################
 ## Eclipse
